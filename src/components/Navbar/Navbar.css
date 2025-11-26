@@ -1,0 +1,15 @@
+/* Puedes agregar aquí estilos extra específicos del Navbar */
+nav {
+  transition: all 0.3s ease-in-out;
+}
+/* Hover logo */
+nav img {
+  transition: transform 0.2s ease-in-out;
+}
+/* Navbar hover logo */
+nav img {
+  transition: transform 0.2s ease-in-out;
+}
+nav img:hover {
+  transform: scale(1.1);
+}
